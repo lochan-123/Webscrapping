@@ -12,7 +12,6 @@ This project focuses on using web scraping techniques to collect data for analys
 - [Data Collection](#data-collection)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
@@ -60,10 +59,6 @@ Encourage contributions by specifying:
 - How others can report issues or bugs.
 - The process for suggesting enhancements or features.
 - Guidelines for submitting pull requests.
-
-## License
-
-Specify the license under which the project is released, typically with a link to the full license text in the repository.
 
 ## Acknowledgments
 
