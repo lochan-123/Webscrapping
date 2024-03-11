@@ -1,5 +1,7 @@
 # Web Scraping Project Overview
 
+![Webscrapping](https://scrape-it.cloud/assets/blog_img/web-scraping-with-python.png)
+
 This project focuses on using web scraping techniques to collect data for analysis. It aims to automate the extraction of specific information from web sources, providing a streamlined approach to data collection for various analytical purposes.
 
 ## Table of Contents
